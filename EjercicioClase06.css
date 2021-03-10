@@ -1,0 +1,56 @@
+h1 {
+    color:rgb(43, 34, 75);
+    font-size: 60px; vertical-align: middle;
+    background-image:url(imagenes/Fondo1.png); width: 1300px; height: 450px;
+    border-style: solid;
+    border-width: 20px;
+    border-color: rgb(52, 36, 83);
+    }
+    p{
+    div {
+        border: 1px dotted rgb(128, 82, 14);
+        margin-top: 100px;
+        margin-bottom: 100px;
+        margin-right: 150px;
+        margin-left: 80px;
+        background-color: rgb(151, 91, 21);
+
+       }
+    }
+    p.uno {
+    font-size: 25px;
+    line-height: 50px;
+    background-color: rgb(230, 191, 86);
+    border-style: dashed;
+    border-width: 5px;
+    color:rgb(54, 43, 104)
+    div {
+        border: red 10px dotted rgb(128, 82, 14);
+        margin-top: 100px;
+        margin-bottom: 100px;
+        margin-right: 150px;
+        margin-left: 80px;
+        background-color: rgb(151, 91, 21);
+    div {
+    padding: 70px;
+    border:rgb(129, 81, 8) 1px solid
+    }
+    h2 {
+        font-size: 25px;
+        line-height: 50px;
+        background-color: rgb(230, 191, 86);
+        border-style: dashed;
+        border-width: 5px;
+        color:rgb(54, 43, 104)
+        div {
+            border: red 10px dotted rgb(128, 82, 14);
+            margin-top: 100px;
+            margin-bottom: 100px;
+            margin-right: 150px;
+            margin-left: 80px;
+            background-color: rgb(151, 91, 21);
+        div {
+        padding: 70px;
+        border:rgb(129, 81, 8) 1px solid
+        }
+ 
